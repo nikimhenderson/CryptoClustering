@@ -1,7 +1,7 @@
 # CryptoClustering
 The aim of this challenge was to predict if 24 hr or 7 day price changes affect cryptocurrencies. Using unsupervised machine learning techniques, including K-means clustering and Principal Component Analysis (PCA). It also explores the impact PCA has on clustering techniques.
 
-#Steps
+# Steps
 1. Prepare the data (scale)
 2. Find the best value for k using the original data
 3. Cluster the cryptocurrencies with K-means using the original data and plot
@@ -10,4 +10,4 @@ The aim of this challenge was to predict if 24 hr or 7 day price changes affect 
 6. Cluster the cryptocurrencies with K-means using the PCA data and plot
 7. Visualize and compare the results
 
-#Results
+# Results
