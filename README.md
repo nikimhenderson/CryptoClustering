@@ -22,3 +22,4 @@ The aim of this challenge was to predict if 24 hr or 7 day price changes affect 
 ![Screenshot 2024-07-01 183624](https://github.com/nikimhenderson/CryptoClustering/assets/158214783/8c5d6cf4-711e-415b-8347-91319ca31dfc)
 
 # Conclusion
+After visually analyzing the data, the cluster analysis indicates that there are 4 distinct clusters. Using Principal Componenent Analysis we are able to see a more clearly defined set of clusters, whereas without PCA our clusters are less clear.
