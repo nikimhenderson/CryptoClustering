@@ -28,4 +28,6 @@ The PCA data clusters are more easily separable, have clear separation compared 
 coming from features that are less important, which leads to more distinct patterns in the data.
 
 # Conclusion
-After visually analyzing the data, the cluster analysis indicates that there are 4 distinct clusters. Using Principal Componenent Analysis we are able to see a more clearly defined set of clusters, whereas without PCA our clusters are less clear.
+After visually analyzing the data, it appears that using Principal Componenent Analysis for clustering cryptocurrency data with K-Means clustering is beneficial. This approach leads to 
+more distinct clusters as compared to using the original data. By reducing the number of features we use in Principal Component Analysis, essential patterns have been emphasized while 
+reducing the noise from less important features, enhancing the accuracy and interpretability of the clustering.
